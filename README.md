@@ -1,0 +1,1 @@
+Demo project for demonstration SPI from https://medium.com/javarevisited/how-to-introduce-spi-in-java-project-5232e02a587b
